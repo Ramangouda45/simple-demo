@@ -3,7 +3,7 @@
 
 this is my first reop
 
-change : Ram
+change : Rammangouda 
 
 
 <hi> git hub </h1>
